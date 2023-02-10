@@ -1,0 +1,15 @@
+/Users/denaelivingston/Projects/deliverable4/deliverable4/bin/Debug/net7.0/deliverable4
+/Users/denaelivingston/Projects/deliverable4/deliverable4/bin/Debug/net7.0/deliverable4.deps.json
+/Users/denaelivingston/Projects/deliverable4/deliverable4/bin/Debug/net7.0/deliverable4.runtimeconfig.json
+/Users/denaelivingston/Projects/deliverable4/deliverable4/bin/Debug/net7.0/deliverable4.dll
+/Users/denaelivingston/Projects/deliverable4/deliverable4/bin/Debug/net7.0/deliverable4.pdb
+/Users/denaelivingston/Projects/deliverable4/deliverable4/obj/Debug/net7.0/deliverable4.csproj.AssemblyReference.cache
+/Users/denaelivingston/Projects/deliverable4/deliverable4/obj/Debug/net7.0/deliverable4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denaelivingston/Projects/deliverable4/deliverable4/obj/Debug/net7.0/deliverable4.AssemblyInfoInputs.cache
+/Users/denaelivingston/Projects/deliverable4/deliverable4/obj/Debug/net7.0/deliverable4.AssemblyInfo.cs
+/Users/denaelivingston/Projects/deliverable4/deliverable4/obj/Debug/net7.0/deliverable4.csproj.CoreCompileInputs.cache
+/Users/denaelivingston/Projects/deliverable4/deliverable4/obj/Debug/net7.0/deliverable4.dll
+/Users/denaelivingston/Projects/deliverable4/deliverable4/obj/Debug/net7.0/refint/deliverable4.dll
+/Users/denaelivingston/Projects/deliverable4/deliverable4/obj/Debug/net7.0/deliverable4.pdb
+/Users/denaelivingston/Projects/deliverable4/deliverable4/obj/Debug/net7.0/deliverable4.genruntimeconfig.cache
+/Users/denaelivingston/Projects/deliverable4/deliverable4/obj/Debug/net7.0/ref/deliverable4.dll
